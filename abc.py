@@ -6,3 +6,6 @@ print(client_secret)
 
 phone = "+92 9876543210"
 print(phone)
+
+email = "dummy@dummy.com"
+print(email)
